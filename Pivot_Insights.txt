@@ -1,0 +1,7 @@
+Insight 1: Technology category contributes the highest total sales (≈ 4.74M USD).
+
+Insight 2: Western Europe and WesternUS are the strongest performing regions in terms of total sales,
+           with the Consumer segment contributing the highest share across most regions.
+
+Insight 3: Technology category generates the highest overall profit across most regions,
+           while some regions show losses in Furniture and Office Supplies, indicating uneven profitability.
